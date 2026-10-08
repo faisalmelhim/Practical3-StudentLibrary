@@ -1,1 +1,9 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using StudentLibrary;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+    }
+}
